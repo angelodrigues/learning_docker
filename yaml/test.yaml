@@ -1,2 +1,35 @@
+#Instruções para o programa
 nome: "Matheus"
 idade: 30
+
+#Este objeto descreve o projeto
+obj:
+ versao: 1
+ arquivo: teste.txt
+
+objeto: {a: 1,b: 2,c: 3}
+
+versao: 2
+versao_completa: 3.14
+
+string_com_aspas: "Texto válido"
+string_sem_aspas: Test
+
+null_: ~
+null_tambem: null
+
+verdadeiro_on: on
+verdadeiro_true: true
+
+false_off: off
+false_false: false 
+
+#Arrays
+
+first: [1,2,3,4,5]
+second:
+  - 1
+  - 2
+  - 3
+  - 4 
+  - 5
